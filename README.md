@@ -46,9 +46,8 @@ After evaluating the model on the training dataset, we can see that the predicti
 <img width="357" alt="image" src="https://user-images.githubusercontent.com/106268058/228089034-8ccaddfe-9db6-4ef9-851e-1d68fed6feb3.png">
 Fig: predictions made by U-net model compared to actual labels of image
 
-### References:
+## References:
 [1]. Ghorbanzadeh, O., Xu, Y., Ghamis, P., Kopp, M., & Kreil, D. (2022). Landslide4Sense: Reference Benchmark Data and Deep Learning Models for Landslide Detection. arXiv preprint arXiv:2206.00515.
-![image](https://user-images.githubusercontent.com/106268058/228087975-aeec05ba-91d7-43b7-8c4e-26ab09341041.png)
 
 
 
